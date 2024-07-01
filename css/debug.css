@@ -1,0 +1,191 @@
+/* navbar */
+.redsky-logo{
+    width: 80px;
+    height: 80px;
+    background-color: aliceblue;
+    border-radius: 50%;
+}
+
+.nav-bg-collor{
+    /* background-color: rgb(0, 8, 255); */
+    /* background-color: #055393; */
+    background-color: #1c89ff;
+    
+
+}
+
+.icon-color-bg{  
+    color: #1ac6ff;
+}
+.background-color-fixed{
+    background-color: #1ac6ff;
+}
+.font-color-bg{
+    color: white;
+}
+
+
+
+/* About */
+
+.heading-about{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin: 15px;
+}
+
+.headin-color-red-sky{
+    color: #1c89ff;
+}
+
+/* Who-We-Are */
+
+.who-we-are-img{
+    
+    /* width: 1296px;
+    height: auto; */
+
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: auto;
+    border-radius: 16px;
+    transition: 1s;
+
+}
+.who-we-are-img:hover{
+    transform: scaleX(1.1);
+
+}
+
+.who-we-are-box{
+    position: relative;
+    padding: 40px;
+    background: #fff;
+    box-shadow: 0 5px 15px rgba(0,0,0,.1);
+    border-radius: 4px;
+    margin: 30px;
+    box-sizing: border-box;
+    text-align: justify;
+     transition: 1s;
+}
+.who-we-are-box:hover{
+    transform: scale(1.1);
+}
+.who-we-are-box .icon-num{
+    position: relative;
+    width: 80px;
+    height: 80px;
+    color: #fff;
+    background: #1ac6ff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    border-radius: 50%;
+    font-size: 40px;
+    font-weight: 700;
+   
+    transition: 1s;
+}
+.who-we-are-content{
+    margin: 20px;
+}
+
+
+/* .who-we-are-content-two{
+ margin: 20px;
+ margin-bottom: 90px;
+ 
+} */
+
+ /* .who-we-are-box:nth-child(1) .icon-num{
+    box-shadow: 0 0 0 0 #e91e63;
+    background: #e91e63;
+}
+ .who-we-are-box:nth-child(1):hover .icon-num{
+    box-shadow: 0 0 0 100px #e91e63;
+} */
+/* .who-we-are-box{
+    position: relative;
+    padding: 40px;
+    background: #fff;
+    box-shadow: 0 5px 15px rgba(0,0,0,.1);
+    border-radius: 4px;
+    margin: 30px;
+    box-sizing: border-box;
+    text-align: justify;
+    
+} */
+
+/* services */
+/* .read-more-btn{
+    margin-top: 70px;
+}
+.read-more-btn-consulting{
+    margin-top: 45px;
+}
+.read-more-btn-cyber{
+    margin-top: 20px;
+} */
+
+
+/* clients */
+
+.align-items-center-clients{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.strategic-margin{
+    margin-bottom: 5%;
+}
+
+/* contact */
+.contact-align-center{
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   flex-direction: column;
+   padding: 10px;
+}
+.address-contact{
+   text-align: center;
+}
+.phone-pd-h{
+    /* height: 208px; */
+   padding-bottom: 35px;
+}
+.email-align{
+    /* word-break: break-word; */
+    /* font-size: 1.25rem; */
+}
+.icon-color-defalt{
+    background-color: #1ac6ff;
+}
+.icon-color-defaltt{
+    color: #1ac6ff;
+}
+
+/* our-vision */
+
+.hover-effect{
+    background-color: rgb(61, 56, 56);
+    transition: 1s;
+  
+}
+.hover-effect:hover{
+    transform: scale(1.1);
+}
+
+/* contact us */
+.background-butt-color{
+    background-color: #1c89ff;
+
+}
+
+.footer-margin-top{
+    margin-top: 8%;
+}
+
