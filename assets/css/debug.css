@@ -1,5 +1,10 @@
 
 /* Header */
+
+.orange-tailoring-logo-header{
+	max-width: 800px;
+	max-height: 70px;
+}
 .visit-bg-color{
     /* background-color: #FFA500; */
 	/* background-color: #ffb433; */
@@ -305,6 +310,10 @@ background-position: left;
 .gallery-top{
 	margin-top: 80px;
 	margin-bottom: 80px;
+}
+
+.galler-paragraph-font{
+	font-size: 20px;
 }
      
 
